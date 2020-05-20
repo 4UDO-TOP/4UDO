@@ -1,0 +1,120 @@
+#obertka {
+  width: 900px;
+  margin: 30px auto;
+  background: white;
+  height: 850px;
+  position: relative;
+  font-family: cursive;
+  overflow: none; }
+
+.menu {
+  color: white;
+  width: 900px;
+  height: 32px;
+  border-radius: 10px;
+  background: black;
+  font-family: cursive; }
+  .menu #right {
+    font-size: 1.3em;
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px; }
+  .menu #contact {
+    font-size: 1.3em;
+    margin-left: 10px; }
+  .menu .a-2 {
+    color: white;
+    text-decoration: none;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s; }
+
+body {
+  background: #EFEFEF; }
+
+.logo {
+  width: 900px;
+  height: 300px; }
+  .logo .logo-img {
+    width: 900px;
+    height: 300px; }
+
+.wqeqw {
+  padding-left: 20px; }
+  .wqeqw .rubriki {
+    border-radius: 10px;
+    width: 290px;
+    height: 40px;
+    background: black;
+    color: white; }
+    .wqeqw .rubriki h2 {
+      text-align: center; }
+
+.cpicok {
+  list-style-type: circle; }
+  .cpicok .a-1 {
+    color: black;
+    text-decoration: none;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s; }
+  .cpicok .a-1:hover {
+    color: DimGrey; }
+
+.text {
+  width: 310px;
+  height: 44px;
+  float: right;
+  background: black;
+  color: white;
+  padding-bottom: 26px;
+  margin-right: 150px;
+  margin-top: -155px;
+  border-radius: 10px; }
+  .text h2 {
+    text-align: center; }
+
+.text-vnutri {
+  background: white;
+  color: black; }
+  .text-vnutri h3 {
+    text-align: center; }
+  .text-vnutri .a-2 {
+    color: black;
+    text-decoration: none;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s; }
+
+.text:hover {
+  border-radius: 10px; }
+
+.text-1 {
+  margin-top: 50px;
+  width: 310px;
+  height: 44px;
+  background: black;
+  color: white;
+  border-radius: 10px; }
+
+.a-2:hover {
+  color: DimGrey; }
+
+.Avtorand {
+  position: absolute;
+  bottom: 0;
+  width: 900px;
+  height: 32px;
+  background: black;
+  color: white;
+  margin: 0px -440px;
+  font-size: 1.3em;
+  border-radius: 10px; }
+
+.a-2 {
+  color: white;
+  text-decoration: none;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  margin-left: 10px; }

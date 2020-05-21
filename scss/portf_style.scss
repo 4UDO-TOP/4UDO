@@ -2,7 +2,7 @@
   width: 900px;
   margin: 30px auto;
   background: white;
-  height: 3260px;
+  height: 4400px;
   position:relative;
   font-family: cursive;
   overflow: none;
@@ -30,9 +30,11 @@ body {
 .text:hover{border-radius:10px;}
 .text-1{margin-bottom:200px;width:310px;height:44px;background:black;color:white;border-radius:10px;}
 .a-2:hover{color:DimGrey;}
-.Avtorand{position:absolute;bottom:0;width:900px;height:32px;background:black;color:white;margin:0px -440px;font-size: 1.3em;border-radius:10px;}
+.Avtorand{position:absolute;bottom:0;width:900px;height:32px;background:black;color:white;margin:0px -440px;font-size: 1.3em;border-radius:10px;.a-2{color: white;text-decoration:none;transition:0.5s;}}
 .a-2{color: white;text-decoration:none;transition:0.5s;margin-left: 10px;}
 .img-portf{width:800px;height:700px;margin:0 -400px;margin-top:20px;}
 .img-portf-1{width:800px;height:700px;margin:-800px -400px;}
 .img-portf-2{width:800px;height:700px;margin:-1600px -400px;}
-.text-2{margin-bottom:200px;width:380px;height:80px;background:black;color:white;border-radius:10px;}
+.text-2{margin-bottom:200px;width:380px;height:70px;background:black;color:white;border-radius:10px;}
+.text-3{margin-top:2500px;width:380px;height:100px;background:black;color:white;border-radius:10px;}
+.img-portf-3{width:800px;height:700px;margin:-780px -400px;}

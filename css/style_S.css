@@ -1,0 +1,85 @@
+body{
+  background:white;
+}
+
+#wrapper{
+  width: 900px;
+  margin: 0px auto;
+  background:white;
+}
+
+#header{
+position:relative;
+  height: 250px;
+  background-color:white;
+   margin-bottom: 5px;
+  border-radius: 5px;
+  box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+
+h1{
+  text-align: center;
+  margin:0 0 10px 40px;
+  color:#464451;
+}
+
+
+h2 {
+  margin-top: 25px;
+  text-align: center;
+}
+
+
+h3{
+  font-family: serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color:lavender;
+}
+
+#sidebar{
+  background-color: #ffffff;
+  width: 180px;
+  padding: 6px;
+  float: right;
+  border-radius: 5px;
+  box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+.marcer{
+  float: left;
+  margin: 5px 5px 0 0;
+}
+
+#content{
+  text-align: justify;
+  margin-bottom: 5px;
+  width: 676px;
+  padding: 10px;
+  background: #ffffff;
+  border-radius: 5px;
+  box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+
+#footer{
+  height:80px;
+  background-color: #ffffff;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+.clear{
+  clear: both;
+}
+.mail{
+  float:left;
+ margin:20px 0 0 60px;
+}
+
+@media (prefers-dark-interface)
+{ color: white; background: black }

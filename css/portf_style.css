@@ -63,13 +63,12 @@ body {
 
 .text {
   width: 310px;
-  height: 44px;
+  height: 42px;
   float: right;
-  background: black;
+  background: white;
   color: white;
-  padding-bottom: 26px;
   margin-right: 150px;
-  margin-top: -155px;
+  margin-top: -149px;
   border-radius: 10px; }
   .text h2 {
     text-align: center; }
@@ -86,13 +85,10 @@ body {
     -o-transition: 0.5s;
     transition: 0.5s; }
 
-.text:hover {
-  border-radius: 10px; }
-
 .text-1 {
-  margin-bottom: 200px;
+  margin-bottom: 260px;
   width: 310px;
-  height: 44px;
+  height: 36px;
   background: black;
   color: white;
   border-radius: 10px; }

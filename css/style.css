@@ -86,9 +86,6 @@ body {
     -o-transition: 0.5s;
     transition: 0.5s; }
 
-.text:hover {
-  border-radius: 10px; }
-
 .text-1 {
   margin-top: 60px;
   width: 310px;
